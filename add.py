@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=VDClkhCxp-Q&t=546s
+==================================================
 print ("Hi Guys, Welcome")  # first program
 print("Addition")
 print(5 + 2)
@@ -63,3 +65,21 @@ elif var==120:
     print (True)
 else:
     print (False)
+===============================================
+# name = input(("Enter name"))
+# print ("My name is", name)
+for i in range(10):
+    print (i)
+a=[]
+a.append(10)
+a.append(40)
+a.append(20)
+a.append(30)
+print(a)
+a.sort(reverse=True)
+print(a)
+fruits = {'apple','orange'}
+print(fruits)
+paragraph = """This is paragraph
+example"""
+print(paragraph)
